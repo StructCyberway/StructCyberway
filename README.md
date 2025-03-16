@@ -9,6 +9,7 @@
 
 ## 📊 GitHub Статистика:
 ![StructCyberway's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StructCyberway&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StructCyberway&theme=gruvbox)
 
 ## 🚀 Мои проекты:
 - [Smoke Backend](https://github.com/StructCyberway/smoke-back)
